@@ -91,7 +91,6 @@ export const FormFields = ({
             <React.Fragment key={node.name}>{field}</React.Fragment>,
           ];
         }
-      } else {
       }
     });
 
